@@ -44,17 +44,18 @@ can bring positive change to healthcare and senior living. Avtually, there are t
 - Health Care Resources
 - Economic Struggles
 - Workforce Influence
+
 Focus on the latter, lest all this sound hopeless and awful, many seniors will stay healthy long enough to work past the age they may have had in mind for retirement. 
 We performed this analysis on personels over sixty five years old with different job titles and the results are shown in the following table as:
 
 
-![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/sum_fare.PNG)
+![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.PNG)
 
 
 
 
 
-According to the statistics obtained from Pewlett-Hackard
+
 
 
 
