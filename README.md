@@ -1,19 +1,14 @@
 # Pewlett-Hackard-Analysis
 
 ## Project Overview
- This project is done as follows: 
+In this analysis, we started with creating database designs or Entity Relationship Diagrams (ERD) and managed tables by writing SQL statements. 
+So in this regard, four csv files were imported directly into the database and out task is to help Pewlett Hackard build an employee database. 
+In fact, we used PostgresSQL for holding data and PgAdmin to interface that talks to postgres. 
+
+This project is done as follows: 
    - Determine the number of retiring employees per title
-   - Identify employees who are eligible to participate in a mentorship program
-  
- In this analysis, we started with creating database designs or Entity Relationship Diagrams (ERD) and managed tables by writing SQL statements. 
-So in this regard, four csv files were imported directly into the database and out task is to help Pewlett Hackard build an employee database by the 
-Silver Tsunami. 
-with SQL by data modeling, engineering an danalysis skills. 
-
-In fact, we used SQL to explore and manipilate the data by asking questions about data and discovering relationships between dta tables. 
-We used postgressql for holding data and pgAdmin to interface that talks to postgres. 
+   - Identify employees who are eligible to participate in a mentorship program and this program includes the current employees who were born between January 1, 1965 and December 31, 1965
    
-
 
 ## Resources
 - Data Sources: employees.csv, departments.csv, dept_emp.csv, titles.csv
@@ -23,21 +18,7 @@ We used postgressql for holding data and pgAdmin to interface that talks to post
 Looking at the ride-sharing dataframe, we can see:
 
 
-![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/ride_sharing_data.PNG)
 
-
-
-   - The total rides in the urban cities is about 2.6- and 13-times more per city than the suburban and rural cities, respectively.
-   - The total drivers in the urban cities is about 5- and 31-times more per city than the suburban and rural cities, respectively. This shows that driving jobs
-   in the urban cities is more prosperous.
-   - The total fares in the urban cities is about 39854 which is not much different from the total fares in the suburban cities, almost 2.1-times and it is still
-   9.2-times more per city than the rural cities.
-   - The amount of average fare per ride in the rural and suburban cities is very close while the average fare per ride in the urban cities is less than the 
-   amount of average fare per ride in the recent cities.
-   - The average fare per driver in the rural and suburban cities is about 3.3- and 2.4-times more than the average fare per driver in the urban cities, repectively.
-
-The above results show that the total rides, drivers and fares in the urban cities are more than the other cities while the average fare per ride and driver in the rural 
-cities are more than the suburban and urban cities. In other words, suburban cities are mediated by all the five parameters.
 
 ## Summary
 
@@ -67,7 +48,7 @@ The table below shows the trainees in the mentorship eligiblity period according
 
 
 
-Comparing the above two tables, it is quite clear that the number of qualified trainees in the mentorship eligibility who can replace with 
+Comparing the above two tables, it is quite clear that the number of qualified trainees in the mentorship program who can replace with 
 the silver tsunami retirees is not enough and Pewlett-Hackard needs to train more people to be able to hold various roles in this large company.
 The code for the tables is available [here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.sql).   
 
