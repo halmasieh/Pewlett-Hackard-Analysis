@@ -39,8 +39,35 @@ cities are more than the suburban and urban cities. In other words, suburban cit
 
 ## Summary
 
+In fact "Silver Tsunami" is a metaphor used to describe the expected increase in the senior population. Today 15% of Americans are 65 or older and the aging population
+can bring positive change to healthcare and senior living. Avtually, there are three main areas of our economy and society that will be most affected by 
+- Health Care Resources
+- Economic Struggles
+- Workforce Influence
+Focus on the latter, lest all this sound hopeless and awful, many seniors will stay healthy long enough to work past the age they may have had in mind for retirement. 
+We performed this analysis on personels over sixty five years old with different job titles and the results are shown in the following table as:
+
+
+![here](https://github.com/halmasieh/PyBer_Analysis/blob/main/sum_fare.PNG)
+
+
+
+
+
+According to the statistics obtained from Pewlett-Hackard
+
+
+
+
 In this analysis, we started with creating database designs or Entity Relationship Diagrams (ERD) and managed tables by writing SQL statements. 
-So in this regard, four csv files were imported directly into the database and out task is to help Pewlett Hackard build an employee database
+So in this regard, four csv files were imported directly into the database and out task is to help Pewlett Hackard build an employee database by the 
+Silver Tsunami. 
+
+
+
+
+
+
 with SQL by data modeling, engineering an danalysis skills. 
 
 In fact, we used SQL to explore and manipilate the data by asking questions about data and discovering relationships between dta tables. 
