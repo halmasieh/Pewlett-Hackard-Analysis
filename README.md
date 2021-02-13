@@ -57,7 +57,10 @@ The rest of roles will need to be filled are Staff, Senior Engineer, Assisstant 
 The table below shows the trainees in the mentorship eligiblity period according to the different roles:
 
 
-![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.PNG)
+![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/mentorship_eligiblity_count.PNG)
+
+
+
 
 
 
