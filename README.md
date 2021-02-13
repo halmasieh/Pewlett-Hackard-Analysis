@@ -52,7 +52,8 @@ We performed this analysis on personels over sixty five years old with different
 ![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.PNG)
 
 
-
+Most people over 65 years who retire soon are Engineers and Senior Staffs, repectively, and the rest of roles will need to be filled are 
+Staff, Senior Engineer, Assisstant Engineer, Technique Leader and Manager, respectively.
 
 
 
