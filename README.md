@@ -69,6 +69,7 @@ The table below shows the trainees in the mentorship eligiblity period according
 
 Comparing the above two tables, it is quite clear that the number of qualified trainees in the mentorship eligibility who can replace with 
 the silver tsunami retirees is not enough and Pewlett-Hackard needs to train more people to be able to hold various roles in this large company.
+The code for the tables is available [here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.sql).   
 
 
 
