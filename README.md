@@ -54,12 +54,15 @@ We performed this analysis on personels over sixty five years old with different
 
 Most people over 65 years who retire soon are Engineers and Senior Staffs, repectively, therefore, the need to employ these two roles is a priority.
 The rest of roles will need to be filled are Staff, Senior Engineer, Assisstant Engineer, Technique Leader and Manager, respectively.
+
 The table below shows the trainees in the mentorship eligiblity period according to the different roles:
 
 
 ![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/mentorship_eligiblity_count.PNG)
 
 
+Comparing the above two tables, it is quite clear that the number of qualified trainees in the mentorship eligibility who can replace with 
+the silver tsunami retirees is not enough and Pewlett-Hackard needs to train more people to be able to hold various roles in this large company.
 
 
 
