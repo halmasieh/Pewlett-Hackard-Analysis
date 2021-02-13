@@ -3,7 +3,7 @@
 ## Project Overview
 In this analysis, we started with creating database designs or Entity Relationship Diagrams (ERD) and managed tables by writing SQL statements. 
 So in this regard, four csv files were imported directly into the database and out task is to help Pewlett Hackard build an employee database. 
-In fact, we used PostgresSQL for holding data and PgAdmin to interface that talks to postgres. 
+In fact, we used PostgresSQL for holding data and PgAdmin to interface that talks to Postgres. 
 
 This project is done as follows: 
    - Determine the number of retiring employees per title
@@ -12,7 +12,7 @@ This project is done as follows:
 
 ## Resources
 - Data Sources: employees.csv, departments.csv, dept_emp.csv, titles.csv
-- Software: [PostgresSQL)](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads), PgAdmin
+- Software: [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads), PgAdmin
 
 ## Results
 Looking at the ride-sharing dataframe, we can see:
