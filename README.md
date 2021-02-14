@@ -29,7 +29,10 @@ to fill these positions.
 
 2- In the next categories, recruitment should be done in Engineer, Staff, Assisstant Engineer and Technique Leader.
 
-3- The least number who are retiring is for manager position and only two people are needed to fill this job.  
+3- The least number who are retiring is for manager position and only two people are needed to fill this job.
+
+4- By viewing the mentorship table at the bottom of the page, the number of eligible employees for the mentorship program is not compareable to the number of
+employees ready to retire and undoubtedly, Pewllet-Hackard will have to make big decisions for training in different job titles.   
 
 ## Summary
 
