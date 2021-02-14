@@ -16,7 +16,7 @@ This project is done as follows:
 - Software: [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads), PgAdmin
 
 ## Results
-Looking at the ride-sharing dataframe, we can see:
+Looking at the table
 
 
 
