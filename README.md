@@ -54,7 +54,7 @@ We performed this analysis on personels over sixty five years old with different
 
 
 Most people over 65 years who retire soon are Engineers and Senior Staffs, repectively, therefore, the need to employ these two roles is a priority.
-The rest of roles will need to be filled are Staff, Senior Engineer, Assisstant Engineer, Technique Leader and Manager, respectively.
+The rest of roles will need to be filled are Staff, Senior Engineer, Technique Leader, Assisstant Engineer and Manager, respectively.
 
 The table below shows the trainees in the mentorship eligiblity period according to the different roles:
 
