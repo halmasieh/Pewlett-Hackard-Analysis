@@ -16,10 +16,19 @@ This project is done as follows:
 - Software: [PostgresSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads), PgAdmin
 
 ## Results
-Looking at the table
+Looking at the table 
 
 
 
+![here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/retiring_%20titles.PNG)
+
+
+we can see:
+1- By observing the number of titles, it is clear that the highest number of retriees occurs in the title of senior Engineer and with very small 
+difference is senior staff. Therefore, the greatest demand four employment is in these positions. Hence, long-term investment in training should be made
+to fill these positions. 
+2- In the next categories, recruitment should be done in Engineer Staff, Assisstant Engineer and Technique Leader.
+3- The least number who are retiring is for manager position and only two people are needed to fill this job.  
 
 ## Summary
 
