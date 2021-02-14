@@ -31,7 +31,7 @@ to fill these positions.
 
 3- The least number who are retiring is for manager position and only two people are needed to fill this job.
 
-4- By viewing the mentorship count per title table at the bottom of the page, the number of eligible employees for the mentorship program is obtained and undoubtedly, Pewllet-Hackard will have to make big decisions for training in different job titles. The company must have a long-term plan to be able to replace these who retire soon. 
+4- By viewing the mentorship count per title table at the bottom of this page, the number of eligible employees for the mentorship program is obtained and undoubtedly, Pewllet-Hackard will have to make big decisions for training in different job titles. The company must have a long-term plan to be able to replace these who retire soon. 
 
 5- The Pewllet-Hackard has to be careful of the silver tsunami in order to not face a shortage of employees in different job titles.
 
