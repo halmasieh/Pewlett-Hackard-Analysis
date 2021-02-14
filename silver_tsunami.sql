@@ -1,3 +1,6 @@
+--------------------------------------------------------------------------
+--Written Analysis-Summary
+--------------------------------------------------------------------------
 -- Create tables employees 
 CREATE TABLE employees (
 	 emp_no INT NOT NULL,
@@ -17,9 +20,6 @@ CREATE TABLE titles(
 	to_date DATE Not Null,
 	FOREIGN KEY (emp_no) REFERENCES Employees (emp_no)
 );
---------------------------------------------------------------------------
---Written Analysis-Summary
---------------------------------------------------------------------------
 --Create a table called silver tsunami and join employees in title
 SELECT Distinct on (e.emp_no)
        e.emp_no,
@@ -34,7 +34,7 @@ FROM employees AS e
 		
 --Filter the data on bith_date to get the employees over 65 years   
 --Select * from silver_tsunami
---where birth_date <= '1956-12-31';
+--where birth_date <= '1956-01-01';
 
 --Drop table if exists
 DROP TABLE IF EXISTS over_sixtyFive;
@@ -51,14 +51,14 @@ group by title;
 Select Count(title) as over65_count, title
 into over_sixtyfive
 from silver_tsunami
-where birth_date <= '1956-12-31'
+where birth_date <= '1956-01-01'
 group by title;
 
 --Count the total number of employees younger than 65 years old by title 
 Select Count(title) as under65_count, title
 into under_sixtyfive
 from silver_tsunami
-where birth_date > '1956-12-31'
+where birth_date > '1956-01-01'
 group by title;
 
 --Join total, over_sixtyfive and under_sixtyfive  
