@@ -8,7 +8,8 @@ In fact, we used PostgresSQL for holding data and PgAdmin to interface that talk
 This project is done as follows: 
    - Determine the number of retiring employees per title
    - Identify employees who are eligible to participate in a mentorship program and this program includes the current employees who were born between January 1, 1965 and December 31, 1965
-   
+   - Identify employees who are eligible to participate in a mentorship program and this program includes the current employees who were born between January 1, 1965 and December 31, 1965
+   - Provide a report to help the manager prepare for the upcoming "silver tsunami."
 
 ## Resources
 - Data Sources: employees.csv, departments.csv, dept_emp.csv, titles.csv
